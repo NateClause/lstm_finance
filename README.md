@@ -1,1 +1,1 @@
-In this notebook, we utilize tensorflow to implement a stock price predictor using data from the kaggle stock market dataset. We use the model to implement a basic trading strategy and demonstrate the performance of the strategy on holdout data.
+In this notebook, we utilize tensorflow to implement a stock price predictor using data from the kaggle stock market dataset. We use the model to implement a basic trading strategy and demonstrate the performance of the strategy on holdout data. See the notebook for results and visuals.
